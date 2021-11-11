@@ -22,9 +22,10 @@
   font-size: 15px;
 }
 
-.Weather img {
+.Weather canvas {
   margin-right: 15px;
-  width: 70px;
+  display: inline-block;
+  margin-top: 5px;
 }
 
 .Weather .temperature {
