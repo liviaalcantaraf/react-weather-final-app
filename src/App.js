@@ -8,7 +8,9 @@ function App() {
 
       <footer>
         Coded by <a href="#">Lívia A.</a> Check out the{" "}
-        <a href="#">open-sourced code</a>
+        <a href="https://www.linkedin.com/in/liviaalcantaraf/">
+          open-sourced code
+        </a>
       </footer>
     </div>
   );
