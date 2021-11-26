@@ -10,7 +10,7 @@
   padding: 3px;
   background-color: white;
   border-radius: 10px;
-  box-shadow: 0.5rem 0.5rem #8ad8f8;
+  box-shadow: 0.5rem 0.5rem #fbd685;
   width: fit-content;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .WeatherInfo-wrapper {
-  background-color: #42bff5;
+  background-color: #7b99fa;
   border-radius: 5px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   margin: 5px;
