@@ -1,9 +1,9 @@
 .WeatherForecast {
   text-align: center;
-  font-size: 18px;
-  color: white;
-  background-color: #7b99fa;
-  border-radius: 5px;
+  font-size: 15px;
+  color: #f5efe8;
+  background-color: #a696ff;
+  border-radius: 10px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   margin: 5px;
   padding: 10px;

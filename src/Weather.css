@@ -3,14 +3,15 @@
 }
 
 .Weather h1 {
+  color: #f5efe8;
   text-align: center;
-
+  font-family: "Poppins", sans-serif;
   font-size: 60px;
-  min-width: 200px;
+  min-width: 210px;
   padding: 3px;
-  background-color: white;
+  background-color: #a696ff;
   border-radius: 10px;
-  box-shadow: 0.5rem 0.5rem #fbd685;
+  box-shadow: 0.3rem 0.3rem #ffde74;
   width: fit-content;
 }
 
@@ -23,7 +24,8 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 16px;
+  font-family: "Roboto";
 }
 
 .Weather canvas {
@@ -33,8 +35,8 @@
 }
 
 .WeatherInfo-wrapper {
-  background-color: #7b99fa;
-  border-radius: 5px;
+  background-color: #a696ff;
+  border-radius: 10px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   margin: 5px;
   padding: 5px;
@@ -42,20 +44,47 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: black;
-  font-size: 50px;
+  color: #f5efe8;
+  font-family: "Poppins", sans-serif;
+  font-size: 75px;
   line-height: 64px;
   font-weight: 400px;
   position: relative;
-  top: -75px;
-  left: 80px;
+  top: -58px;
+  left: 110px;
 }
 
 .Weather .unit {
-  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
   font-weight: 500;
   position: relative;
   top: -100px;
-  left: 75px;
+  left: 110px;
   margin-left: 5px;
+  color: #f5efe8;
+}
+
+.WeatherInfo-wrapper .Weather-first-icon {
+  position: relative;
+  left: 50px;
+}
+
+.WeatherInfo-wrapper .Weather-id {
+  margin-bottom: 20px;
+  position: relative;
+  left: 50px;
+  top: -5px;
+  color: #f5efe8;
+}
+
+.Weather .btn-light {
+  background-color: #a696ff;
+  color: #f5efe8;
+}
+
+.Weather .Formatted-date {
+  font-size: 13px;
+  position: relative;
+  left: 3px;
 }

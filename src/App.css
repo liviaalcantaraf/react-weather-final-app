@@ -3,3 +3,16 @@
   padding: 20px;
   margin-bottom: 500px;
 }
+
+footer {
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  position: relative;
+  left: 300px;
+  top: -20px;
+}
+
+a {
+  text-decoration: none;
+}
