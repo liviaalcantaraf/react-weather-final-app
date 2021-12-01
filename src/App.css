@@ -9,7 +9,7 @@ footer {
   font-family: "Courier New", Courier, monospace;
   font-size: 10px;
   position: relative;
-  left: 300px;
+  left: 320px;
   top: -20px;
   color: black;
   opacity: 0.5;
@@ -20,7 +20,7 @@ a {
   color: black;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 800px) {
   footer {
     position: relative;
     left: 65px;

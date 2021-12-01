@@ -88,7 +88,7 @@
   position: relative;
   left: 3px;
 }
-@media (max-width: 740px) {
+@media (max-width: 800px) {
   .Weather h1 {
     font-size: 40px;
   }
