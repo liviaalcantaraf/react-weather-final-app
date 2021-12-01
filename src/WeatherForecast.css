@@ -12,3 +12,14 @@
   margin-left: 5px;
   opacity: 0.6;
 }
+
+@media (max-width: 740px) {
+  .Forecast-wrapper {
+    max-width: 40px;
+    text-align: center;
+  }
+
+  .Forecast-icon {
+    max-width: 15px;
+  }
+}

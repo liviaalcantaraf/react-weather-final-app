@@ -88,3 +88,36 @@
   position: relative;
   left: 3px;
 }
+@media (max-width: 740px) {
+  .Weather h1 {
+    font-size: 40px;
+  }
+  .Weather .temperature {
+    font-size: 60px;
+
+    position: relative;
+    top: -55px;
+    left: 70px;
+  }
+
+  .Weather .unit {
+    font-size: 13px;
+    position: relative;
+    top: -90px;
+    left: 65px;
+    margin-left: 5px;
+  }
+  .WeatherInfo-wrapper .Weather-first-icon {
+    position: relative;
+    left: 5px;
+  }
+  .WeatherInfo-wrapper .Weather-id {
+    position: relative;
+    left: 28px;
+    top: 5px;
+  }
+
+  .Weather li {
+    font-size: 15px;
+  }
+}
