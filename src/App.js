@@ -7,7 +7,11 @@ function App() {
       <Weather defaultCity="Lisbon" />
 
       <footer>
-        <a href="https://www.linkedin.com/in/liviaalcantaraf/">
+        <a
+          href="https://www.linkedin.com/in/liviaalcantaraf/"
+          target="_blank"
+          rel="nopener noreferrer"
+        >
           Open-sourced code
         </a>{" "}
         {"  "}
