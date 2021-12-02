@@ -8,7 +8,7 @@ function App() {
 
       <footer>
         <a
-          href="https://www.linkedin.com/in/liviaalcantaraf/"
+          href="https://github.com/liviaalcantaraf/react-weather-final-app"
           target="_blank"
           rel="nopener noreferrer"
         >
